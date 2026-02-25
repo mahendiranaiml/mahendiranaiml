@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f3c,70:1a3a7a,100:0F2655&height=220&section=header&text=Mahendiran%20Muthu%20Adidravidar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full%20Stack%20Python%20Dev%20%7C%20APIs%20%7C%20Bots%20%7C%20Databases&descAlignY=58&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1f3c,70:1a3a7a,100:0F2655&height=220&section=header&text=Mahendiran%20Adidravidar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full%20Stack%20Python%20Dev%20%7C%20APIs%20%7C%20Bots%20%7C%20Databases&descAlignY=58&descSize=17&animation=fadeIn&stroke=58A6FF&strokeWidth=2" />
 
 <br/>
 
