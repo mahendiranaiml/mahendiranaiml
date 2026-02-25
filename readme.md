@@ -90,7 +90,7 @@ class Mahendiran:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mahendiran0919&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahendiranaiml&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB5454&background=0D1117&currStreakNum=58A6FF&ring=58A6FF&sideLabels=c9d1d9&currStreakLabel=58A6FF&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
