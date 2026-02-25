@@ -9,11 +9,11 @@
 <br/>
 
 <p>
-  <a href="https://github.com/Mahendiran0919">
-    <img src="https://komarev.com/ghpvc/?username=Mahendiran0919&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <a href="https://github.com/mahendiranaiml">
+    <img src="https://komarev.com/ghpvc/?username=mahendiranaiml&label=Profile+Views&color=0e75b6&style=flat-square" />
   </a>
-  <a href="https://github.com/Mahendiran0919?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mahendiran0919?label=Followers&style=flat-square&color=0e75b6&logo=github" />
+  <a href="https://github.com/mahendiranaiml?tab=followers">
+    <img src="https://img.shields.io/github/followers/mahendiranaiml?label=Followers&style=flat-square&color=0e75b6&logo=github" />
   </a>
 </p>
 
@@ -59,8 +59,8 @@ class Mahendiran:
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@Mahendiran.ag19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahendiran-Muthu-Adidravidar-3a3309370)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Mahendiranag19)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahendiran0919@gmail.com)
-[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Mahendiran0919)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahendiranaiml@gmail.com)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@mahendiranaiml)
 
 </div>
 
@@ -96,21 +96,21 @@ class Mahendiran:
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahendiran0919&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahendiran0919&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahendiranaiml&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahendiranaiml&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahendiran0919&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahendiran0919&theme=tokyonight&utcOffset=5.3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahendiranaiml&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahendiranaiml&theme=tokyonight&utcOffset=5.3" />
 
 </div>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahendiran0919&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahendiranaiml&theme=tokyonight" />
 
 </div>
 
@@ -204,7 +204,7 @@ HTML                     5 repos             ██████████░�
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Mahendiran0919&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=mahendiranaiml&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
@@ -214,7 +214,7 @@ HTML                     5 repos             ██████████░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendiran0919&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EB5454&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendiranaiml&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EB5454&area=true&hide_border=true" />
 
 </div>
 
@@ -225,9 +225,9 @@ HTML                     5 repos             ██████████░�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendiran0919/Mahendiran0919/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendiran0919/Mahendiran0919/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mahendiran0919/Mahendiran0919/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahendiranaiml/mahendiranaiml/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahendiranaiml/mahendiranaiml/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mahendiranaiml/mahendiranaiml/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -238,7 +238,7 @@ HTML                     5 repos             ██████████░�
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Mahendiran0919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-trophies.vercel.app/?username=mahendiranaiml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
